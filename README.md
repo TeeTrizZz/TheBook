@@ -13,6 +13,10 @@ __Screenshots:__
 
 ![](https://raw.githubusercontent.com/hs-furtwangen/TheBook/1220846d9bb437e3c0eed2d65de9da36b3f2ebec/Doku/Screenshots/Screenshot1.jpg)
 
+![](https://raw.githubusercontent.com/hs-furtwangen/TheBook/1220846d9bb437e3c0eed2d65de9da36b3f2ebec/Doku/Screenshots/Screenshot2.jpg)
+
 ![](https://raw.githubusercontent.com/hs-furtwangen/TheBook/1220846d9bb437e3c0eed2d65de9da36b3f2ebec/Doku/Screenshots/Screenshot5.jpg)
+
+![](https://raw.githubusercontent.com/hs-furtwangen/TheBook/1220846d9bb437e3c0eed2d65de9da36b3f2ebec/Doku/Screenshots/Screenshot4.jpg)
 
 ![](https://raw.githubusercontent.com/hs-furtwangen/TheBook/1220846d9bb437e3c0eed2d65de9da36b3f2ebec/Doku/Screenshots/Screenshot6.jpg)
